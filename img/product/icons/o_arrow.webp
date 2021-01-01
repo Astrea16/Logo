@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="18" viewBox="0 0 21 18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #fd8424;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="правая_при_наведении" data-name="правая при наведении" class="cls-1" d="M1047.53,470.787h5.91V473.5l6.94-5.233-6.94-5.234v2.709h-5.91v5.049Z" transform="translate(-1043.5 -459.5)"/>
+</svg>
